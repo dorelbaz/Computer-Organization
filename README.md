@@ -1,2 +1,2 @@
 # Computer-Organization
-An assignment in assembly (Grade: 100).
+For more information, refer to the UniversityAssignment file.
